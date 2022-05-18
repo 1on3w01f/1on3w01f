@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @1on3w01f
 - 👀 I’m interested in Cybersecurity & DevSecOps
 - 🌱 I’m currently learning ... Cloud computing security
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ... cybersecurity Blue Team projects
 - 📫 How to reach me ...
 
 <!---
