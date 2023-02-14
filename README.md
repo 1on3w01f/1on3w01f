@@ -1,9 +1,12 @@
 
-- 👋 Hi, I’m @1on3w01f
-- 👀 I’m interested in Cybersecurity & DevSecOps
-- 🌱 I’m currently learning ... Cloud computing security
-- 💞️ I’m looking to collaborate on ... cybersecurity Red Team projects
-- 📫 How to reach me ...
+- 👋 Hi, I’m Lukman Busari
+- 👀 I’m a Cybersecurity & DevOps Engineer
+- 🌱 You can find my projects, tools under each of these subsection:
+        - DevOps
+        - Cybersecurity
+        - DevSecOps
+- 💞️ I’m open to collaboration on cybersecurity Red Team projects
+- 📫 You can email me at busarilukman2016@gmail.com
 
 <!---
 1on3w01f/1on3w01f is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
