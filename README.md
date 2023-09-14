@@ -1,11 +1,11 @@
 
 - 👋 Hi, I’m Lukman Busari
-- 👀 I’m a Cybersecurity & DevOps Engineer
+- 👀 I’m a DevOps & Cybersecurity Engineer
 - 🌱 You can find my projects, tools under each of these subsection:
         - DevOps
         - Cybersecurity
         - DevSecOps
-- 💞️ I’m open to collaboration on cybersecurity Red Team projects
+- 💞️ I’m open to collaboration on DevOps and cybersecurity Red Team projects
 - 📫 You can email me at busarilukman2016@gmail.com
 
 <!---
