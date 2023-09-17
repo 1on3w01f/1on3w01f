@@ -3,10 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=1on3w01f&label=Profile%20views&color=0e75b6&style=flat" alt="1on3w01f" /> </p>
 
-- 🌱 You can find my projects, tools under each of these subsection:
-        - DevOps
-        - Cybersecurity
-        - DevSecOps
+- 🌱 You can find my projects, tools under each of these Repos & subsection:
+-         DevOps
+-         Cybersecurity
+-         DevSecOps
 - 💞️ I’m open to collaboration on DevOps and cybersecurity Red Team projects
   
 - 📫 How to reach me **busarilukman2016@gmail.com**
